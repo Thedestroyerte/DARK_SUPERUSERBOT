@@ -39,7 +39,7 @@ async def alive(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f"︎ ™°‌ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ︎︎︎\n\n"
+        f"︎ ™°‌ #UR_DADDY_4ST_DARK_ ︎︎︎\n\n"
         f"𝐕ᴇʀsɪᴏɴ ⁂1.0\n"
         f"𝐏ɪɴɢ ⁂ {ping * 1000:.3f}ᴍs\n"
         f"𝐔ᴘᴛɪᴍᴇ ⁂ {uptime}\n"
@@ -58,7 +58,7 @@ async def ping(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f" ™°‌ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 \n\n"
+        f" ™°‌ #UR_DADDY_4ST_DARK \n\n"
         f"𝐏ɪɴɢ  ⁂ {ping * 1000:.3f}ᴍs\n"
         f"𝐔ᴘᴛɪᴍᴇ  ⁂ {uptime}\n"
         f"𝐎ᴡɴᴇʀ ⁂ {client.me.mention}\n"
