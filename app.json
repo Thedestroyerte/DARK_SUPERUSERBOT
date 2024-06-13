@@ -3,7 +3,7 @@
     "description": "DARK is an advanced & powerful multi-featured Telegram userbot.",
     "logo": "https://graph.org/file/6b2e42f4b5fc997a4fa9a.jpg"
     "keywords": [
-        "SHUKLAUSERBOT",
+        "DARKUSERBOT",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
@@ -39,7 +39,7 @@
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "DARK OP"
+            "value": "DARK"
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
