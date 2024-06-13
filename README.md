@@ -1,7 +1,7 @@
-<p align="center"><a href="https://t.me/PyXen"><img src="https://telegra.ph/file/7a2e0a67e160deb60e48b.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/PyXen"><img src="https://telegra.ph/file/e0f0ca5f09af1630dc2e6.jpg" width="400"></a></p>
 </p>
 <h6 align="center">
-  <b>• sᴛʀᴀɴɢᴇʀ ᴜsᴇʀ ʙᴏᴛ •</b>
+  <b>• ᴅᴀʀᴋ ᴜsᴇʀ ʙᴏᴛ •</b>
 </h6>
 
 ----
@@ -11,7 +11,7 @@
 > The easy way to host this bot, deploy to Heroku 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-OPUSERBOT2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Thedestroyerte/DARK_SUPERUSERBOT)
 
 ## 🖇 Generating Pyrogram String Session
 
