@@ -1,7 +1,7 @@
 {
     "name": "4st ID BOT",
     "description": "SHUKLAUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
-    "logo": "https://telegra.ph/file/7a2e0a67e160deb60e48b.jpg",
+    "logo": "https://telegra.ph/file/f61f87dc3d733d9404b20.jpg",
     "keywords": [
         "SHUKLAUSERBOT",
         "telegram-userbot",
@@ -13,33 +13,33 @@
     "env": {
         "API_ID": {
             "description": "Enter your api id here.",
-            "value": "23666955",
+            "value": "25469020",
             "required": true
         },
         "API_HASH": {
             "description": "Enter your api hash here.",
-            "value": "89e2111bf5a6853225b3e77d23ef9f31",
+            "value": "18827491a7be4991c276c45363470ef9",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "6261790350:AAG6k0OS71LudXDyrpR35VUhHB10P3M5UGU",
+            "value": "7055784700:AAH5_dm-kRo4ygBEMFjjnjX8cYQL8AjkyVU",
             "required": true
                     },
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "6841658149"
+            "value": "7467072373"
         },
           "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "6841658149"
+            "value": "7467072373"
               },
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "oye_mindgamer"
+            "value": "Dark"
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
