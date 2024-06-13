@@ -1,5 +1,5 @@
 {
-    "name": "DARK 4ST FIGHTER",
+    "name": "DARK",
     "description": "SHUKLAUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
     "logo": "https://graph.org/file/6b2e42f4b5fc997a4fa9a.jpg"
     "keywords": [
@@ -23,7 +23,8 @@
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "7055784700:AAH5_dm-kRo4ygBEMFjjnjX8cYQL8AjkyVU",
+            "value": "
+7055784700:AAH5_dm-kRo4ygBEMFjjnjX8cYQL8AjkyVU",
             "required": true
                     },
         "SUDO_USERS": {
@@ -48,7 +49,7 @@
         },
         "MONGO_DB_URL": {
             "description": "Enter your mongodb url here.",
-            "value": "mongodb+srv://SHASHANK:STRANGER@shashank.uj7lold.mongodb.net/?retryWrites=true&w=majority",
+            "value": "mongodb+srv://SachinSanatani:SACHINxSANATANI@sanatani.bnmsfbd.mongodb.net/?retryWrites=true&w=majority&appName=Sanatani",
             "required": true
         },
         "LOG_GROUP_ID": {
