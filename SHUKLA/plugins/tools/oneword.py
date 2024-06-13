@@ -9,7 +9,7 @@ from ... import *
 from SHUKLA.modules.SHASHANK.data import OneWord
 
 
-FC = 2
+FC = 3
 
 
 @app.on_message(cdz(["randi"])  & (filters.me | filters.user(SUDO_USER)))
@@ -42,6 +42,21 @@ async def alt_mkc(xspam: Client, message: Message):
         print("Flood !!")
         pass
     
+
+@app.on_message(cdz(["lund"])  & (filters.me | filters.user(SUDO_USER)))
+async def alt_lol(xspam: Client, message: Message):    
+    chat_id = message.chat.id
+    RUSH = None
+    if message.reply_to_message:
+        RUSH = message.reply_to_message.id
+    try:
+        for word in OneWord:
+            await xspam.send_message(chat_id, word, reply_to_message_id=RUSH)
+            await asyncio.sleep(000.0)
+    except FloodWait:
+        print("Flood !!")
+        pass
+
     
 
 @app.on_message(cdz(["stop"])  & (filters.me | filters.user(SUDO_USER)))
