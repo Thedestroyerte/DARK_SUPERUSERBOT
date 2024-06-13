@@ -1,9 +1,9 @@
 {
     "name": "DARK 4ST FIGHTER",
-    "description": "DARK is an advanced & powerful multi-featured Telegram userbot.",
+    "description": "SHUKLAUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
     "logo": "https://graph.org/file/6b2e42f4b5fc997a4fa9a.jpg"
     "keywords": [
-        "DARKUSERBOT",
+        "SHUKLAUSERBOT",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
@@ -23,7 +23,7 @@
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "",
+            "value": "7055784700:AAH5_dm-kRo4ygBEMFjjnjX8cYQL8AjkyVU",
             "required": true
                     },
         "SUDO_USERS": {
@@ -39,7 +39,7 @@
           "OWNER_USERNAME": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "DARK"
+            "value": "dark_4st"
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
