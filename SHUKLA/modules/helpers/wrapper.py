@@ -78,7 +78,7 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://telegra.ph/file/7a2e0a67e160deb60e48b.jpg",
+                                photo_url=f"https://graph.org/file/7100d68a03a12c5ce50eb.jpg",
                                 title="🥀 Shukla Userbot ✨",
                                 thumb_url=f"https://telegra.ph/file/7a2e0a67e160deb60e48b.jpg",
                                 description=f"🌷 Deploy Your Own SHUKLAUSERBOT🌿...",
