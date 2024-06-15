@@ -43,9 +43,9 @@ async def alive(client: Client, message: Message):
         f"🇻ᗴᖇՏIOᑎ ⁂1.0\n"
         f"🇵Iᑎᘜ ⁂ {ping * 1000:.3f}ᴍs\n"
         f"🇺ᑭTIᗰᗴ ⁂ {uptime}\n"
-        f"𝐏ʏᴛʜᴏɴ ⁂ {python_version()}`\n"
-        f"𝐏ʏʀᴏɢʀᴀᴍ ⁂ {__version__}\n"
-        f"𝐎ᴡɴᴇʀ ⁂ {client.me.mention}"    
+        f"🇵YTᕼOᑎ ⁂ {python_version()}`\n"
+        f"🇵YᖇOᘜᖇᗩᗰ ⁂ {__version__}\n"
+        f"👑‌🇴Oᗯᑎᗴᖇ💗 ⁂ {client.me.mention}"    
     )
 
 @app.on_message(cdz(["ping"])  & (filters.me | filters.user(SUDO_USER)))
@@ -59,8 +59,8 @@ async def ping(client: Client, message: Message):
     await message.delete()
     await r.edit(
         f" ™°‌ #UR_DADDY_4ST_HERE \n\n"
-        f"𝐏ɪɴɢ  ⁂ {ping * 1000:.3f}ᴍs\n"
-        f"𝐔ᴘᴛɪᴍᴇ  ⁂ {uptime}\n"
+        f"🇵𝖨𝖭𝖦  ⁂ {ping * 1000:.3f}ᴍs\n"
+        f"🇹𝖨𝖬𝖤  ⁂ {uptime}\n"
         f"𝐎ᴡɴᴇʀ ⁂ {client.me.mention}\n"
               )
 @app.on_message(cdz(["repo"])  & (filters.me | filters.user(SUDO_USER)))
