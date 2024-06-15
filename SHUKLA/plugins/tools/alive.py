@@ -40,9 +40,9 @@ async def alive(client: Client, message: Message):
     await message.delete()
     await r.edit(
         f"︎ ™°‌ #UR_DADDY_4ST_HERE_ ︎︎︎\n\n"
-        f"𝐕ᴇʀsɪᴏɴ ⁂1.0\n"
-        f"𝐏ɪɴɢ ⁂ {ping * 1000:.3f}ᴍs\n"
-        f"𝐔ᴘᴛɪᴍᴇ ⁂ {uptime}\n"
+        f"🇻ᗴᖇՏIOᑎ ⁂1.0\n"
+        f"🇵Iᑎᘜ ⁂ {ping * 1000:.3f}ᴍs\n"
+        f"🇺ᑭTIᗰᗴ ⁂ {uptime}\n"
         f"𝐏ʏᴛʜᴏɴ ⁂ {python_version()}`\n"
         f"𝐏ʏʀᴏɢʀᴀᴍ ⁂ {__version__}\n"
         f"𝐎ᴡɴᴇʀ ⁂ {client.me.mention}"    
