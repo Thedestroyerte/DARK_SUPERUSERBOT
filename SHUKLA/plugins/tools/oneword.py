@@ -74,7 +74,7 @@ async def alt_lol(xspam: Client, message: Message):
         pass
 
 
-@app.on_message(cdz(["randi"])  & (filters.me | filters.user(SUDO_USER)))
+@app.on_message(cdz(["MADARCHOD"])  & (filters.me | filters.user(SUDO_USER)))
 async def alt_lol(xspam: Client, message: Message):    
     chat_id = message.chat.id
     RUSH = None
@@ -83,7 +83,7 @@ async def alt_lol(xspam: Client, message: Message):
     try:
         for word in OneWord:
             await xspam.send_message(chat_id, word, reply_to_message_id=RUSH)
-            await asyncio.sleep(1)
+            await asyncio.sleep(0)
     except FloodWait:
         print("Flood !!")
         pass
