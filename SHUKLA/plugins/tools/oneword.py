@@ -52,7 +52,7 @@ async def alt_lol(xspam: Client, message: Message):
     try:
         for word in OneWord:
             await xspam.send_message(chat_id, word, reply_to_message_id=RUSH)
-            await asyncio.sleep(0)
+            await asyncio.sleep(0.5)
     except FloodWait:
         print("Flood !!")
         pass
