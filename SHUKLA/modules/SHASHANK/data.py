@@ -499,7 +499,7 @@ PORM = [
         "https://telegra.ph/file/a8bf6c6df8a48e4a306ca.jpg",
         "https://telegra.ph/file/af9e3f98da0bd937adf6e.jpg",
 ]
-OneWord = [ "AJA", "TERI", "MAA", "KI", "CHUT", "FAAD", "DUNGA", "CHAMAR", "HIJDE", "TERA", "BAAP", "HU", "AJA",
+OneWord = [ "𝗔𝗝𝗔", "𝗧𝗘𝗥𝗜", "𝗠𝗔𝗔", "𝗞𝗜𝗜", "𝗖𝗛𝗨𝗧", "FAAD", "DUNGA", "CHAMAR", "HIJDE", "TERA", "BAAP", "HU", "AJA",
 "TERI", "BEHEN", "KO", "FEEL", "KARAUN", "4ST KAA", "LUND",
 "KAA", "ZHATKA", "SOUR", "KE", "PILLE", "TERI", "MAA", "KI", "BHOSS",
 "FATT", "JAYEGI", "AGAR", "TU", "BHAGA", "TOH", "TERE",
