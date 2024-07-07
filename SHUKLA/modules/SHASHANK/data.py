@@ -499,9 +499,9 @@ PORM = [
         "https://telegra.ph/file/a8bf6c6df8a48e4a306ca.jpg",
         "https://telegra.ph/file/af9e3f98da0bd937adf6e.jpg",
 ]
-OneWord = [ "𝘼𝙅𝘼", "𝗧𝗘𝗥𝗜", "𝗠𝗔𝗔", "𝗞𝗜𝗜", "𝗖𝗛𝗨𝗧", "𝗙𝗔𝗔𝗗", "𝗗𝗨𝗡𝗚𝗔", "𝗖𝗛𝗔𝗠𝗔𝗥", "𝗛𝗜𝗝𝗗𝗘", "𝗧𝗘𝗥𝗔", "𝗕𝗔𝗔𝗣", "HU", "AJA",
-"TERI", "BEHEN", "KO", "FEEL", "KARAUN", "4ST KAA", "LUND",
-"KAA", "ZHATKA", "SOUR", "KE", "PILLE", "TERI", "MAA", "KI", "BHOSS",
+OneWord = [ "𝘼𝙅𝘼", "𝙏𝙀𝙍𝙄", "𝙈𝘼𝘼", "𝙆𝙄𝙄", "𝘾𝙃𝙐𝙏", "𝙁𝘼𝘼𝘿", "𝘿𝙐𝙉𝙂𝘼", "𝘾𝙃𝘼𝙈𝘼𝙍", "𝙃𝙄𝙅𝘿𝙀", "𝙏𝙀𝙍𝘼", "𝘽𝘼𝘼𝙋", "𝙃𝙐", "𝘼𝙅𝘼",
+"𝘛𝘌𝘙𝘐", "𝘉𝘌𝘏𝘌𝘕", "𝘒𝘖", "𝘍𝘌𝘌𝘓", "𝘒𝘈𝘙𝘈𝘜𝘕", "4𝘚𝘛 𝘒𝘈", "𝘓𝘜𝘕𝘋",
+"𝘒𝘈𝘈", "ZHATKA", "sᴏᴜʀ", "ᴋᴇᴇ", "𝐏𝐈𝐋𝐄𝐄", "𝐓𝐄𝐑𝐈𝐈", "𝐌𝐀𝐀", "KI", "BHOSS",
 "FATT", "JAYEGI", "AGAR", "TU", "BHAGA", "TOH", "TERE",
 "RANDI", "CLAN", "BANANE", "WAALE", "KI", "MA KI", "CHUT",
 "MADARCHOD", "TERI", "MAIYA", "KI", "CHUT PE", "APNE", "LUND", "SE MUTHHI", "MAARDU", "AJA", "TERI", "BEHEN", "KI CHUT", "NILAAM", "KARDU", "KIDXX", "SPEED", "PAKAD", "BHEN KE LAUDE", "AA BETA", "AAGYA", "TERI", "MAA ", "CHODNE", "AB", "TERI ", "MAA", "CHUDEGI", "KUTTE", "KI", "TARAH", "BETA", "TERI", "MAA", "KE", "BHOSDE", "ME", "JBL", "KE", "SPEAKER", "DAAL", "KAR", "BASS", "BOOSTED", "SONG", "SUNUNGA", "PURI", "RAAT", "LAGATAR", "TERI", "MAA", "KE", "SATH", "SEX", "KARUNGA🔥", "😁😁", "TERI", "MAA", "KE", "BOOBS", "DABAUNGA", "😂😂", "TERI", "BEHEN KO", "RANDI", "BANAKAR", "CHODUNGA", "MERE", "LUND", "KE", "PISSU", "TERI", "RANDI", "MAA KO", "APNA", "LUND", "CHUSA", "KAR", "CHODUNGA", "TERI", "BEHEN KO", "RANDI", "KHAANE", "MAIN", "LEJAKAR","USKI", "CHUT", "FAAD", "DUNGA", "CHUT", "MARANI KE", "MERE", "JHAAT KEE", "BAAL", "😂😂", "BACHHE", "TERA", "BAAP", "HUU MAIN", "😁😁", "TERI", "MAA KI", "CHUT", "MAIN", "PARIS", "KAA", "EFFILE", "TOWER","JHAATU", "😂😂", "ABHI", "TERI", "BEHEN", "CHOD", "KAR", "AA", "RAHAA", "HUUU", "KALAP", "BHOSDI", "BAAP", "KO", "KABHI", "NAHI", "BHULNA", "BETA", "CHUS", "LEE", "MERA", "LAWDA", "RANDIWALE", "CHAKKE", "TERI", "MAA", "AUR", "BEHEN", "KOO", "KOTHE", "PARR", "NANGA", "KARKE", "NACHAUNGA", "LAGATAR", "TERI", "MAA", "KEE SAATH", "PORN SHOOT", "KARUNGA", "SPEED", "PAKAD", "MADARCHOD", "TERI", "BEHEN KI", "GULABI", "CHUT", "MAIN","APNA LODA", "DAALU", 
