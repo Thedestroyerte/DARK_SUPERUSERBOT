@@ -6,7 +6,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 
-@app.on_message(filters.me & filters.command(["spam", "statspam", "slowspam"], "."))
+@app.on_message(filters.me & filters.command(["aja", "statspam", "slowspam"], "."))
 async def spam(client: Client, message: Message):
     amount = int(message.command[1])
     text = " ".join(message.command[2:])
@@ -23,8 +23,8 @@ async def spam(client: Client, message: Message):
         if spam_type == "statspam":
             await asyncio.sleep(0.1)
             await sent.delete()
-        elif spam_type == "spam":
-            await asyncio.sleep(0.1)
+        elif spam_type == "aja":
+            await asyncio.sleep(0.0)
         elif spam_type == "slowspam":
             await asyncio.sleep(0.9)
 
