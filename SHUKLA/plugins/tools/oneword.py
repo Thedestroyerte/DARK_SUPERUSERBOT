@@ -12,7 +12,7 @@ from SHUKLA.modules.SHASHANK.data import OneWord
 FC = 5
 
 
-@app.on_message(cdz(["randi"])  & (filters.me | filters.user(SUDO_USER)))
+@app.on_message(cdz(["RENDI"])  & (filters.me | filters.user(SUDO_USER)))
 async def alt_lol(xspam: Client, message: Message):    
     chat_id = message.chat.id
     RUSH = None
@@ -28,7 +28,7 @@ async def alt_lol(xspam: Client, message: Message):
 
 
 
-@app.on_message(cdz(["randii"])  & (filters.me | filters.user(SUDO_USER)))
+@app.on_message(cdz(["RANDII"])  & (filters.me | filters.user(SUDO_USER)))
 async def alt_mkc(xspam: Client, message: Message):    
     chat_id = message.chat.id
     RUSH = None
@@ -91,7 +91,7 @@ async def alt_lol(xspam: Client, message: Message):
 
     
 
-@app.on_message(cdz(["rrandi"])  & (filters.me | filters.user(SUDO_USER)))
+@app.on_message(cdz(["STOP"])  & (filters.me | filters.user(SUDO_USER)))
 async def alt_stop(_, message: Message):    
     reply = await message.reply_text("𝚃𝙴𝚁𝙸 𝙼𝙰𝙰 𝙺𝙸 𝙲𝙷𝚄𝚃 OP ...")
     await reply.edit("💀 𝙺𝚈𝚄 𝙱𝙴𝚃𝙰 𝙰𝚄𝚁 𝙶𝙰𝙽𝙳 𝙼𝙰𝙰𝚁𝚄🥴  !!\n\n👻#𝙵𝙴𝙴𝙻_DARK_𝙳𝙰𝙳𝙳𝚈 💕 !!")
