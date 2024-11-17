@@ -441,7 +441,7 @@ GROUP = [-1002230409802, -1002164170114]
 
 VERIFIED_USERS = [7467394208, 7467072373]
 
-Owners = "@DARK_4ST"
+Owners = "@RAJESH_SEWESHWAR"
 
 PORM = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
